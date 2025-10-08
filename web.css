@@ -1,0 +1,12 @@
+button1{
+    color: rgb(160, 135, 9);
+    size: 30px;
+    width: 15px;
+    height: 30px;
+
+}
+
+button1.hoover{
+    outline-color: rgb(43, 5, 142);
+
+}
