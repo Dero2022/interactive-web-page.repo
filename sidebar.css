@@ -1,9 +1,10 @@
 .sidebar{
-    background-color: rgb(207, 201, 201);
+    background-color: #fff;
     position: fixed;
     margin-left: 0%;
-    margin-top: 5px;
+    margin-top: 120px;
     height: 70vh;
+    z-index: 99;
     
  }
 
