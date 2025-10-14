@@ -8,8 +8,42 @@
     border: 1px ,rgb(100, 96, 96) ,solid;
     border-radius: 5px;
     
-
-    
-
-    
 }
+
+.duration2{
+    position: absolute;
+    margin: -35px;
+    margin-left: 400px;
+    color: rgb(244, 232, 232);
+    font-size: large;
+    border: 1px ,rgb(100, 96, 96) ,solid;
+    border-radius: 5px;
+
+}
+
+.duration3 ,
+.duration4 ,
+.duration5 ,
+.duration6{
+    position: absolute;
+    margin: -35px;
+    margin-left: 385px;
+    color: rgb(244, 232, 232);
+    font-size: large;
+    border: 1px ,rgb(100, 96, 96) ,solid;
+    border-radius: 5px;
+
+}
+
+.duration7 ,
+.duration8 ,
+.duration9{
+    position: absolute;
+    margin-bottom: -95px;
+    margin-left: 385px;
+    color: rgb(244, 232, 232);
+    font-size: large;
+    border: 1px ,rgb(100, 96, 96) ,solid;
+    border-radius: 5px;
+
+} 

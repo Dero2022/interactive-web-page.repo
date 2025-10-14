@@ -72,6 +72,7 @@ body{
     height:180px;
     max-height: fit-content;
     height: auto;
+    position: relative;
 
      }
 
@@ -91,6 +92,7 @@ body{
     width: 100%;
     height: auto;
     border-radius: 7%;
+    position: relative;
 }
 
 .image1 ,

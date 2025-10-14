@@ -90,7 +90,11 @@
  }
 
  .add{
-   margin-right: 50px;
+   margin-right: 56px;
+   border-radius: 15px;
+   position: relative;
+   width: fit-content;
+   max-height: fit-content;
  }
  
 
