@@ -1,0 +1,110 @@
+body{
+    font-family: Arial,sans-serif;
+    font-size: medium;
+    background-color: white;
+}
+
+
+.grid-container {
+    gap: 15px;
+    width: auto;
+    border: 1px solid #e9d9d9; 
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 78px;
+    margin-right: auto;
+    display: grid;
+    position: absolute;
+    margin-top: 115px;
+    height: auto;
+    }
+
+
+
+.grid-container :hover{
+
+  transition: 0.5s;
+  opacity: 1;
+}
+
+.html ,
+.grid-item2 ,
+.grid-item3
+  {
+    background-color: white;
+    border: 1px solid white;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    height: 180px;
+    object-fit: cover;
+    height: auto;
+
+     }
+
+.grid-item4 ,
+.grid-item5,
+.grid-item6
+  {
+    background-color: white;
+    border: 1px solid #ccc;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    height: 180px;
+    object-fit: cover;
+    max-height: fit-content;
+    height: auto;
+
+     }
+
+.grid-item7 ,
+.grid-item8,
+.grid-item9
+  {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+    height:180px;
+    max-height: fit-content;
+    height: auto;
+
+     }
+
+    
+
+
+.image1 ,
+.image2 ,
+.image3 ,
+.image4 ,
+.image5 ,
+.image6 ,
+.image7 ,
+.image8 ,
+.image9{
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    border-radius: 7%;
+}
+
+.image1 ,
+.image2 ,
+.image3 ,
+.image4 ,
+.image5 ,
+.image6 ,
+.image7 ,
+.image8 ,
+.image9:hover{
+  opacity: 1;
+  transition: 0.2;
+  cursor: pointer;
+  color: beige;
+  box-shadow: inset;
+}

@@ -1,0 +1,47 @@
+.sidebar{
+    background-color: #fff;
+    position: fixed;
+    margin-left: 0%;
+    margin-top: 120px;
+    height: 70vh;
+    z-index: 99;
+    
+ }
+
+.home{
+    display: grid;
+    grid-template-columns: 1fr;
+    cursor: pointer;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+
+.subscription{
+    display: grid;
+    grid-template-columns: 1fr;
+    cursor: pointer;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+
+}
+
+.account{
+    display: grid;
+    grid-template-columns: 1fr;
+    cursor: pointer;
+    height: 50px;
+     margin-top: 10px;
+    margin-bottom: 60px;
+
+}
+
+.more{
+    display: grid;
+    grid-template-columns: 1fr;
+    cursor: pointer;
+    height: 70px;
+   
+
+}
