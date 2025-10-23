@@ -105,6 +105,12 @@
    transition: 0.8s;
  }
    
+
+
+.logo_1{
+   line-height: 100%;
+   max-height: fit-content;
+}
  
 
  

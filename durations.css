@@ -7,6 +7,7 @@
     font-size: large;
     border: 1px ,rgb(100, 96, 96) ,solid;
     border-radius: 5px;
+    background-color: rgb(57, 56, 56);
     
 }
 
@@ -18,13 +19,11 @@
     font-size: large;
     border: 1px ,rgb(100, 96, 96) ,solid;
     border-radius: 5px;
+    background-color: rgb(57, 56, 56);
 
 }
 
-.duration3 ,
-.duration4 ,
-.duration5 ,
-.duration6{
+.duration3{
     position: absolute;
     margin: -35px;
     margin-left: 385px;
@@ -32,18 +31,46 @@
     font-size: large;
     border: 1px ,rgb(100, 96, 96) ,solid;
     border-radius: 5px;
+    background-color: rgb(57, 56, 56);
 
 }
 
-.duration7 ,
-.duration8 ,
-.duration9{
+
+.duration4 ,
+.duration5 ,
+.duration6{
     position: absolute;
-    margin-bottom: -95px;
-    margin-left: 385px;
+    margin: -35px;
+    margin-left: 405px;
     color: rgb(244, 232, 232);
     font-size: large;
     border: 1px ,rgb(100, 96, 96) ,solid;
     border-radius: 5px;
+    background-color: rgb(57, 56, 56);
+}
+
+
+
+.duration7 ,
+.duration9{
+    position: absolute;
+    margin-bottom: -95px;
+    margin-left: 400px;
+    color: rgb(244, 232, 232);
+    font-size: large;
+    border: 1px ,rgb(100, 96, 96) ,solid;
+    border-radius: 5px;
+    background-color: rgb(57, 56, 56);
 
 } 
+
+.duration8{
+    position: absolute;
+    margin-bottom: -95px;
+    margin-left: 390px;
+    color: rgb(244, 232, 232);
+    font-size: large;
+    border: 1px ,rgb(100, 96, 96) ,solid;
+    border-radius: 5px;
+    background-color: rgb(57, 56, 56);
+}
